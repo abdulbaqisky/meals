@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'meal.dart';
 import 'models/category.dart';
 
 const DUMMY_CATEGORIES = const [
@@ -55,7 +56,7 @@ const DUMMY_CATEGORIES = const [
   ),
 ];
 
-/*const DUMMY_MEALS = const [
+const DUMMY_MEALS = const [
   Meal(
     id: 'm1',
     categories: [
@@ -404,4 +405,4 @@ const DUMMY_CATEGORIES = const [
     isVegetarian: true,
     isLactoseFree: true,
   ),
-];*/
+];
