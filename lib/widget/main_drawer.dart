@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:meals/screens/filters_screen.dart';
+
+import '/screens/filters_screen.dart';
 
 class MainDrawer extends StatelessWidget {
   Widget buildListTile(String title, IconData icon, VoidCallback tapHandler) {
@@ -28,7 +29,7 @@ class MainDrawer extends StatelessWidget {
             width: double.infinity,
             padding: EdgeInsets.all(20),
             alignment: Alignment.centerLeft,
-            color: Theme.of(context).accentColor,
+            color: Theme.of(context).colorScheme.secondary,
             child: Text(
               'Cooking up',
               style: TextStyle(

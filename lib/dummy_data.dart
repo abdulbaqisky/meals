@@ -143,7 +143,7 @@ const DUMMY_MEALS = const [
       'Form 2 patties',
       'Fry the patties for c. 4 minutes on each side',
       'Quickly fry the buns for c. 1 minute on each side',
-      'Bruch buns with ketchup',
+      'Brunch buns with ketchup',
       'Serve burger with tomato, cucumber and onion'
     ],
     isGlutenFree: false,
@@ -179,7 +179,7 @@ const DUMMY_MEALS = const [
       'Heat the butter and oil in a large pan (allow the fat to get very hot) and fry the schnitzels until golden brown on both sides.',
       'Make sure to toss the pan regularly so that the schnitzels are surrounded by oil and the crumbing becomes ‘fluffy’.',
       'Remove, and drain on kitchen paper. Fry the parsley in the remaining oil and drain.',
-      'Place the schnitzels on awarmed plate and serve garnishedwith parsley and slices of lemon.'
+      'Place the schnitzels on a warmed plate and serve garnished with parsley and slices of lemon.'
     ],
     isGlutenFree: false,
     isVegan: false,
@@ -213,7 +213,7 @@ const DUMMY_MEALS = const [
     steps: [
       'Wash and cut salad and herbs',
       'Dice the salmon',
-      'Process mustard, vinegar and olive oil into a dessing',
+      'Process mustard, vinegar and olive oil into a dressing',
       'Prepare the salad',
       'Add salmon cubes and dressing'
     ],
@@ -235,7 +235,7 @@ const DUMMY_MEALS = const [
         'https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg',
     duration: 240,
     ingredients: [
-      '4 Sheets of Gelatine',
+      '4 Sheets of Gelatin',
       '150ml Orange Juice',
       '80g Sugar',
       '300g Yoghurt',
@@ -243,7 +243,7 @@ const DUMMY_MEALS = const [
       'Orange Peel',
     ],
     steps: [
-      'Dissolve gelatine in pot',
+      'Dissolve gelatin in pot',
       'Add orange juice and sugar',
       'Take pot off the stove',
       'Add 2 tablespoons of yoghurt',
